@@ -1,0 +1,2 @@
+# obsidiannotes
+notes
