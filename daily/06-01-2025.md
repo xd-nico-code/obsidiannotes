@@ -1,0 +1,18 @@
+## DAY PROGRESS
+
+| SLEEP DURATION |                                                                  |
+| -------------- | ---------------------------------------------------------------- |
+| WAKE UP TIME   |                                                                  |
+| DAY TODO :     | <input type="checkbox" unchecked id="7d22aewfdb"> my todo object |
+## MID DAY ASSESMENT
+
+| incomplete TODO | <input type="checkbox" unchecked id="7d224esafdczwdb"> my todo object                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Productivity    | <input type="checkbox" unchecked id="7d224a"><input type="checkbox" unchecked id="7d224b"><input type="checkbox" unchecked id="7d224c"><input type="checkbox" unchecked id="7d224d"> |
+## END OF DAY ASSESMENT
+
+| incomplete TODO              | <input type="checkbox" unchecked id="7d224esafdczwdb"> my todo object                                                                                                                |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Productivity                 | <input type="checkbox" unchecked id="7d224a"><input type="checkbox" unchecked id="7d224b"><input type="checkbox" unchecked id="7d224c"><input type="checkbox" unchecked id="7d224d"> |
+| How to improve my next day   |                                                                                                                                                                                      |
+| What am i thankful for today |                                                                                                                                                                                      |
