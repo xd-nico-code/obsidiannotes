@@ -1,0 +1,1 @@
+In computer system , a data structure is a data organisation and management 
