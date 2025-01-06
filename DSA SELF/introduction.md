@@ -1,6 +1,6 @@
 ## What will we study ?
 We will study about :
-- arrays
+- [[arrays]]
 	- 1 D
 	- 2 D
 	- 3 D
