@@ -14,14 +14,10 @@ An array is a data structure which can be defined as finite ordered set of homog
 
 - **Use Cases:** Representing lists of items like numbers, names, or colors.
 
-    C++
-    
-    ```
+```C++
     int numbers[5] = {1, 2, 3, 4, 5}; 
     // declares an array named 'numbers' that can hold 5 integers.
-    ```
-    
-
+```
 ## Multidimensional Array
 
 - **Array of Arrays:** Essentially an array where each element is itself an array. This creates a grid-like structure.
@@ -31,18 +27,14 @@ An array is a data structure which can be defined as finite ordered set of homog
 - **Access:** Elements are accessed using multiple indices, one for each dimension.
     
 - **Use Cases:** Representing tables, matrices, images (where each pixel is an element in a 2D array), and other complex data structures.
-    
-    C++
-    
-    ```
+```C++
     int matrix[3][3] = {  
         {1, 2, 3}, 
         {4, 5, 6}, 
         {7, 8, 9}  
     }; 
     // declares a 2D array named 'matrix' with 3 rows and 3 columns.
-    ```
-    
+```
 
 ## Key Differences
 
@@ -52,6 +44,3 @@ An array is a data structure which can be defined as finite ordered set of homog
 |Indexing|Single index|Multiple indices|
 |Representation|List|Table, matrix, etc.|
 |Memory Allocation|Contiguous|May not be contiguous|
-```C++
-
-```
