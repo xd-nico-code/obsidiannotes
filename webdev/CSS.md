@@ -10,3 +10,5 @@ changing text color -
 ```
 
 ### Display types 
+Plex :
+easy to manage
